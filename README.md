@@ -1,4 +1,4 @@
-#Project Pi Grant & Reward Program Rules
+**Project Pi Grant & Reward Program Rules**
 
 These rules may be subject to change in the near or distant future and are outlined as follows:
 
