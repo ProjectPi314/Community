@@ -1,4 +1,4 @@
-**Project Pi Grant & Reward Program Rules**
+# Project Pi Grant & Reward Program Rules
 
 These rules may be subject to change in the near or distant future and are outlined as follows:
 
@@ -8,4 +8,4 @@ Participants are responsible for all applicable taxes. All rewards and grants ar
 
 **Eligibility Criteria The following individuals are not eligible for rewards or grants:**
 
-Individuals who have not reached the legal majority age in their country of residence. Individuals on sanctions lists or residing in countries listed on SECO’s sanctions list or where crypto-assets have been banned. Project Pi & affiliated entities employees, consultants, and their families.
+Individuals who have not reached the legal majority age in their country of residence. Individuals on sanctions lists or residing in countries listed on [SECO’s sanctions list](https://www.seco.admin.ch/seco/fr/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/exportkontrollen-und-sanktionen/sanktionen-embargos/sanktionsmassnahmen.html) list or where crypto-assets have been banned. Project Pi & affiliated entities employees, consultants, and their families.
